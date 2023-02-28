@@ -2,13 +2,15 @@
  * TODO(developer): Uncomment the following lines before running the sample.
  */
 // The ID of your GCS bucket
-// const bucketName = 'your-unique-bucket-name';
+import { v4 as uuidv4 } from "uuid";
+
+const bucketName = "brog-trip-journal.appspot.com";
 
 // The full path of your file inside the GCS bucket, e.g. 'yourFile.jpg' or 'folder1/folder2/yourFile.jpg'
-// const fileName = 'your-file-name';
+const fileName = uuidv4();
 
 // Imports the Google Cloud client library
-const { Storage } = require("@google-cloud/storage");
+import { Storage } from "@google-cloud/storage";
 
 // Creates a client
 const storage = new Storage();
