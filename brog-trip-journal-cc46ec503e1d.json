@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brog-trip-journal",
+  "private_key_id": "cc46ec503e1d7fccf64b94f6546165500a99fbf4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7eegFNArUoX2E\n9tAJLoaGQJeiNdBp5O6h9xZO/NCrOGcMaQVV7Tlx4TWSK5A/di3nIGOLRdyk+zrM\nkgaMkw6L82h2KIeIZDrYfQnH+nV3uYMuNL5QAithiVt/Yp+KEfk6KsTtGn/oTtbb\n4fjuIg2RWHsP8lPqhzSJ8VnPvtHrQY1H/GD+qrAtNb7XbptbfPStNwfNv8ARu/vf\nLyrjucaGY5Jxut7Hgk11OBqduQz6mkdl/72CQDVSD9hl/sZG/hMihg3nf3n7z1t/\nVN71kZwmzWB8wGDbnbetT/0qc4w4yGihUjwd0ybIANs7bH0LqP5bKDPnzH49g5a7\n/w1w22q9AgMBAAECggEAFOyJt070KIAvpK/xTx0IuaIq6llMPg1ljuEndcBkv79n\nTOzJwincX/ftRTekfVjAzcuBILG26xj5Gozvuy/Mj1Um4w0p91CMes4V0eKDys2D\nNRyA4ygi1FuCwUhuGvhfkxzj5ryu6uwlsdvaLyXQ0tiHv6Nht0rI096CkhuvjSyO\nW/5etDTxJmv8Uk3psXTKu6asfWAolqpXiZKsMyBqEQ9xNze8OyXik3gbeIRy3qp6\nwZVa3OnO662Wj4nhIBrhujlYcYF+o+44X7vk0cc1B1BEzxmtSSNdCZ7dYS8RJD4u\nAK6o3wtaKEcouYHtHOC68tAZgKKXHBXPyfb0RfqAcQKBgQDi6Ow7OSeJjfgGBM14\nT8GQFWILPg3czfegYqX/ypSl5R5QQmEu6YF5E9IQDqlRE9NjItaOhn2N9KxZweSq\nU/1ELBC0ua3QSzbVbbt1xWOhnbn8Pz2njnt/MtxABNmrXJ/BgkZVp0OCR1h7sLKl\nOozQaGFkNwKy5e28Y92GCheK2QKBgQDTgsn8NSLtGyH6DPtmOx8Cylsz5Jjh2nmc\nJmnaK4ztetdjGIzbdmb3XfZYGD4lhjzOUNdx/0EX54v66v6YIEqlB77OKxLg2c/d\nKlEQ7qkcn6y3wJ4G6wJCqeEO4qHmNDj0KKpfrMjA/LfOw0dtW1gRnXt//Vzecgej\nlCVM66WIhQKBgH9is/wrgf6/LNZ0K8W3QLtaxcf59l5XYwUvXHHVkM3xaqs0GMr1\nXDJU5kENehCCSNIG5Nzus93V1kwthen5bN2wv1A2TVX6Y7Y9/FeJkP1SRu9NsZc3\nbi1iqDNohaqmPSmtsT60wDmLRClscV5BGHyHnOVd3K4CVwzEI8D0OXNBAoGBAKh6\nNsAx50cs5KyUKLCvCS2k2G8GeQz2hQXvx0Nki1YjEmw6AwFRWAVUkERt0xr6yXai\nCGsioswSwXq2MuQkXLEF8WOyBdCbTyrhaT9ui8BkJCUeRgJGsj89qCq+Na30DSXX\nOpcJP8QRyavl+wBN0WH+qoAx5ga+l/0hpXCXB/0tAoGBAMNCgM+wr1/NZscCBuoG\nObts1egdgw5PAEY26YQ3ED4A/tdaAMxFQZfiK1g/bUMUzhfh73/+N44bvrtpLVwl\nACnAVuii5JiC4078ZAFzeWtDDaaOZx7hvjZXcUJ2VHlo5taxk8vISglx5ZXyIdgF\nimcCWuk7Bm2xVr30gF3Tx3VH\n-----END PRIVATE KEY-----\n",
+  "client_email": "signed-urls@brog-trip-journal.iam.gserviceaccount.com",
+  "client_id": "108664633089243564884",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/signed-urls%40brog-trip-journal.iam.gserviceaccount.com"
+}
